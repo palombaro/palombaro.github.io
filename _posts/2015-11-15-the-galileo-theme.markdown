@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "The Galileo Theme"
-date:   2015-11-15 13:05:14 +0100
+title: Test1
+date: '2018-08-05 13:05:14 +0100'
 categories: jekyll theme
-location: Florence, Italy
+location: 'Rome, Italy'
+published: true
 ---
 
 Landing somewhere between a scholarly publication and an adventurers notebook, the Galileo theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages.
